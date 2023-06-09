@@ -1,0 +1,14 @@
+#MAVEN
+/target/
+mvnw
+mvnw.cmd
+.mvn/
+
+/.classpath
+/*.project
+/.settings
+
+#SPRING BOOT
+/*.springBeans
+
+HELP.md
